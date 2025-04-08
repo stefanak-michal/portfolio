@@ -52,7 +52,6 @@ $(document).ready(function () {
     $(window).trigger('scroll');
 
     $('.contact-form').on('submit', function (e) {
-        console.log('Form submitted!');
         e.preventDefault();
         const formData = {
             name: $('#name').val(),

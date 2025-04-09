@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://stefanak.serv00.net/sitemap.xml

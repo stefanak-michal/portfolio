@@ -260,6 +260,7 @@ nav ul li a:hover {
     display: flex;
     align-items: center;
     gap: 10px;
+    justify-content: center;
 }
 
 /* Projects Section */
@@ -309,8 +310,7 @@ nav ul li a:hover {
 
 /* Highlight List */
 #projects .projects-more {
-    margin-top: 20px;
-    padding: 20px;
+    margin-top: 30px;
 }
 
 #projects .highlight-list {
@@ -324,6 +324,7 @@ nav ul li a:hover {
 #projects .highlight-list li {
     margin-bottom: 10px;
     font-size: 1rem;
+    text-align: left;
 }
 
 /* Services Section */
